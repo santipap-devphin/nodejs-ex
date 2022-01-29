@@ -1,0 +1,30 @@
+20211216	14:22:50 	345ad3da-b47b-415a-a870-ce8c6085488a	TypeError	fsPromises.readFil is not a function
+20211216	22:25:41 	f2eed29c-f5af-4199-a95c-debdd69681f8	undefined : Not allowed by CORS
+20211217	13:39:38 	57a486cf-f207-4151-8890-1db950717cde	undefined : ENOENT: no such file or directory, stat 'C:\nodejs-lernning\lession8-nodejs-routing\views\subdir\index.html'
+20211217	13:39:53 	c2287df1-099f-49e8-9025-f32371cbffad	undefined : ENOENT: no such file or directory, stat 'C:\nodejs-lernning\lession8-nodejs-routing\views\subdir\index.html'
+20211217	16:33:09 	9bfb04e8-9261-4a43-85bb-353c4bf38cda	undefined : Cannot access 'unsortedArray' before initialization
+20211217	16:42:09 	48c1ff1a-aafa-4dc8-becd-c5b22e1ed638	undefined : data.setEmployees is not a function
+20211217	16:42:13 	aee245b0-8247-4371-863f-f229105a212a	undefined : data.setEmployees is not a function
+20211217	22:10:10 	331e8eae-1b9e-4986-a5d4-9fea80661751	undefined : data.setEmployees is not a function
+20211217	22:10:11 	8b592ee3-550e-4926-a32b-43f162fa1799	undefined : data.setEmployees is not a function
+20211217	22:10:13 	3db1f0e0-c27f-41cb-8dc6-499ae9c7426f	undefined : data.setEmployees is not a function
+20211217	22:10:13 	de809a2e-7965-4c9b-86e9-cc950cf2cb08	undefined : data.setEmployees is not a function
+20211217	22:10:14 	345c1f34-8432-4e5e-becb-6f8af30ddb70	undefined : data.setEmployees is not a function
+20211217	22:10:14 	f8e592ab-fef2-47fd-bd65-180f9405993a	undefined : data.setEmployees is not a function
+20211217	22:10:14 	60e76821-c921-424a-a8e7-c86d72713edf	undefined : data.setEmployees is not a function
+20211217	22:10:14 	c190c95a-597b-45b9-ba2e-33245f8a44e3	undefined : data.setEmployees is not a function
+20211217	22:10:15 	6c1294fe-918e-4b81-845e-64eba38d9522	undefined : data.setEmployees is not a function
+20211217	22:20:07 	2cb3afcc-c3e5-4a52-8316-42502df32903	undefined : data.setEmployees is not a function
+20211217	22:22:56 	9a9da9b3-fe47-47b5-b51f-c1cdfd647a59	undefined : data.setEmployees is not a function
+20211217	22:22:57 	8ff8a5ef-1f63-43f3-82d0-6a51fe5c8817	undefined : data.setEmployees is not a function
+20211217	22:23:05 	ede58d25-2c30-402a-b3f3-a407c49e4281	undefined : data.setEmployees is not a function
+20211217	22:23:10 	af86b150-e86f-4a6a-9c78-dfbc8aaada73	undefined : data.setEmployees is not a function
+20211217	22:33:08 	8fe9938a-bf1b-457f-96d6-937bcccd4f64	undefined : Cannot read property 'id' of undefined
+20211217	22:33:10 	a81b75af-b83a-4627-9be2-aaf5bbf4a922	undefined : Cannot read property 'id' of undefined
+20211217	22:33:12 	9e164de1-9ee7-4030-9fbb-78af9247f1e1	undefined : Cannot read property 'id' of undefined
+20211217	22:33:12 	e78d8510-5f42-4b9c-b4b9-492e8ea1eb81	undefined : Cannot read property 'id' of undefined
+20211217	22:33:13 	3073617d-903c-43ca-abe6-f3078c42638a	undefined : Cannot read property 'id' of undefined
+20211217	22:33:13 	1d3ffef1-2bc7-4735-9121-595b019cdc15	undefined : Cannot read property 'id' of undefined
+20211217	22:33:13 	c8fba25d-d5a8-40e5-baaf-a7fad0412033	undefined : Cannot read property 'id' of undefined
+20211217	22:33:39 	776f7d1d-b499-4f27-9390-4a3715cd2607	undefined : Cannot read property 'id' of undefined
+20220115	23:15:37 	2f3d2697-a9c9-48ac-b341-4c05e3c6b52f	undefined : Not allowed by CORS
